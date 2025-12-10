@@ -27,4 +27,4 @@
 # pandas: Utilizada para a manipulação, limpeza e análise estatística dos dados extraídos, permitindo a criação dos datasets utilizados no treinamento do modelo.
 
 
-# Este projeto foi desenvolvido para fins acadêmicos.*
+# Este projeto foi desenvolvido para fins acadêmicos.
